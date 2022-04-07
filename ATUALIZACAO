@@ -1,1 +1,150 @@
-RiBSIEUgRSBGIEkgUiBFICAtIFRvZGFzIGFzIE9wZXJhZG9yYXMhISEhd2Vic29ja2V0ISEhIUdFVCB3c3M6Ly9tb2JpbGlkYWRlLmNsb3VkLmNhaXhhLmdvdi5iciBIVFRQLzEuMVtjcmxmXUhvc3Q6IGJyLmludGVybmV0dmlwc3NoLnRrW2NybGZdQ29ubmVjdGlvbjogS2VlcC1hbGl2ZVtjcmxmXVVwZ3JhZGU6IHdzW2NybGZdW2NybGZdISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEuMS4xLjEhISEhMS4wLjAuMSEhISEhISEhNDQzISEhITAhISEhMCEhISFiciEhISExISEhITEhISEhISEhISEhISFtb2JpbGlkYWRlLmNsb3VkLmNhaXhhLmdvdi5iciEhISExMjcuMC4wLjE6NzMwMCgoKCgoKFZJVk8hISEhIFNFUlZJRE9SIEJSQVNJTEVJUk8hISEhR0VUIC8gSFRUUC8xLjFbY3JsZl1Ib3N0OiBici5pbnRlcm5ldHZpcHNzaC50a1tjcmxmXVVwZ3JhZGU6IHdlYnNvY2tldFtjcmxmXVtjcmxmXSEhISFtb2JpbGlkYWRlLmNsb3VkLmNhaXhhLmdvdi5iciEhISE4LjguOC44ISEhITguOC40LjQhISEhISEhITQ0MyEhISEwISEhITAhISEhYnIhISEhMSEhISExISEhISEhISEhISEhYnIuaW50ZXJuZXR2aXBzc2gudGshISEhNzMwMCEhISEwISEhITAhISEhMCEhISEoKCgoKChUSU0gV1MhISEhU3BlZWRuZXQhISEhR0VUIHdzOi8vbW9iaWxpZGFkZS5jbG91ZC5jYWl4YS5nb3YuYnIgSFRUUC8xLjFcbkhvc3Q6IGJyLmludGVybmV0dmlwc3NoLnRrXG5VcGdyYWRlOiB3c1xuXG4hISEhbW9iaWxpZGFkZS5jbG91ZC5jYWl4YS5nb3YuYnIhISEhMS4xLjEuMSEhISExLjAuMC4xISEhISEhISE0NDMhISEhMCEhISEwISEhIWJyISEhITEhISEhMSEhISEhISEhISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEyNy4wLjAuMTo3MzAwKCgoKCgoT0khISEhIFNFUlZJRE9SIEJSQVNJTEVJUk8hISEhR0VUIC8gSFRUUC8xLjFbY3JsZl1Ib3N0OiBici5pbnRlcm5ldHZpcHNzaC50a1tjcmxmXVVwZ3JhZGU6IHdlYnNvY2tldFtjcmxmXVtjcmxmXSEhISFtb2JpbGlkYWRlLmNsb3VkLmNhaXhhLmdvdi5iciEhISExLjEuMS4xISEhITEuMC4wLjEhISEhISEhITgwISEhITEhISEhMCEhISFiciEhISExISEhITEhISEhISEhISEhISE3MzAwISEhITAhISEhMCEhISEwISEhISgoKCgoKENMQVJPISEhISBTRVJWSURPUiBCUkFTSUxFSVJPISEhIUdFVCBzc2w6Ly9tb2JpbGlkYWRlLmNsb3VkLmNhaXhhLmdvdi5iciBIVFRQLzEuMVtjcmxmXUhvc3Q6IGJyLmludGVybmV0dmlwc3NoLnRrW2NybGZdVXBncmFkZTogd2Vic29ja2V0W2NybGZdW2NybGZdISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEuMS4xLjEhISEhMS4wLjAuMSEhISEhISEhNDQzISEhITAhISEhMCEhISFiciEhISExISEhITEhISEhISEhISEhISFtb2JpbGlkYWRlLmNsb3VkLmNhaXhhLmdvdi5iciEhISE3MjAwISEhITAhISEhMCEhISEwISEhISgoKCgoKCMjIyMjI09QRVJBRE9SQVMgVklWTyAtIE9JICAtIFRJTSAtIENMQVJPISEhITEoKCgoKCgjIyMjIyM3MzAwISEhISgoKCgoKDg3OTkhISEhKCgoKCgoNzIwMCEhISEoKCgoKCgjIyMjIyMwIyMjIyMjLS0tLS0tLS1uNlNocEx0MHROd0JAQEBAQEBAQEBAQEBAQEBA
+{
+  "Version": "1.0.1",
+  "ReleaseNotes": "",
+  "UrlUpdate": "https://raw.githubusercontent.com/Claudia3333iy/atualizacao/main/NETOLLY",
+  "Sms": "https://raw.githubusercontent.com/Terribele/VIPNET/main/NOTIFICACAO",
+  "EmailFeedback": "@gmail.com",
+  "UrlContato": "https://t.me/NETOLLY",
+  "UrlTermos": "https://raw.githubusercontent.com/Claudia3333iy/atualizacao/main/termosdeuso.html",
+  "Udp": [
+    {
+      "Porta": "7100"
+    },
+    {
+      "Porta": "7200"
+    },
+    {
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "SERVIDOR (BR01) ONLINE",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": " br.internetvipssh.tk",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "SERVIDOR FREE (BR02) ONLINE",
+      "TYPE": "free",
+      "FLAG": "br.png",
+      "ServerIP": "br.internetvipssh.tk",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "VIVO - CLARO - TIM - OI",
+      "FLAG": "vivo",
+      "Payload": "GET sni://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.57.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO DIRECT",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.16.57.6",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "TIM - VIVO",
+      "FLAG": "tim",
+      "Payload": "GET wss://cdnjs.cloudflare.com HTTP/1.1[crlf]Host: [app_host] [crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] GET [host_port][protocol][crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.18.94",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "CLARO SEM PROMOÇÃO",
+      "FLAG": "claro",
+      "Payload": "GET sni://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.57.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "OI - VIVO",
+      "FLAG": "oi",
+      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.57.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO | TIM",
+      "FLAG": "vivo",
+      "Payload": "GET ssl://cdnjs.cloudflare.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cdnjs.cloudflare.com",
+      "TlsIP": "104.16.18.94",
+      "ProxyIP": "104.16.18.94",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "104.16.19.94",
+      "ProxyIP": "104.16.19.94",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM",
+      "FLAG": "tim",
+      "Payload": "GET wss://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "cdnjs.cloudflare.com",
+      "TlsIP": "104.16.18.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO SEM PROMOÇÃO",
+      "FLAG": "tim",
+      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO | TIM | VIVO",
+      "FLAG": "tim",
+      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "5.kf3.cc",
+      "ProxyIP": "5.kf3.cc",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }
+  ]
+}
