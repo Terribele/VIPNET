@@ -2,9 +2,9 @@
   "Version": "1.0.0",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Terribele/VIPNET/main/ATUALIZACAO",
-  "Sms": "",
-  "EmailFeedback": "apolossh@gmail.com",
-  "UrlContato": "https://t.me/apolo_vx",
+  "Sms": "https://raw.githubusercontent.com/Terribele/VIPNET/main/NOTIFICACAO",
+  "EmailFeedback": "terribeleiago@gmail.com",
+  "UrlContato": "https://t.me/Iago.Oliveira",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "CheckUser": "true",
   "Udp": [
