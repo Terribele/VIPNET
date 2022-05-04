@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netvipssh.tk",
-      "CheckUser": "http://45.179.89.104:5454/checkUser",
+      "CheckUser": "http://52.67.25.61:5454:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
