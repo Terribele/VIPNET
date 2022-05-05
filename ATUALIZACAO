@@ -17,8 +17,8 @@
       "Name": "Servidor BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "netvipssh.tk",
-      "CheckUser": "http://52.67.25.61:5454/checkUser",
+      "ServerIP": "br.net-vip.cf",
+      "CheckUser": "http://52.67.25.61:5656/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -29,7 +29,7 @@
     {
       "Name": "Todas as Operadoras",
       "FLAG": "vivo",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: wss\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "104.16.56.6",
       "ProxyIP": "",
@@ -59,9 +59,9 @@
     {
       "Name": "Claro",
       "FLAG": "claro",
-      "Payload": "GET ws://no.descomplica.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "GET wss://no.descomplica.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: wss\n\n",
       "SNI": "no.descomplica.com.br",
-      "TlsIP": "199.60.103.228",
+      "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
