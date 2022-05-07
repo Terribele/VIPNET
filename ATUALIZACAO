@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.1.0",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Terribele/VIPNET/main/ATUALIZACAO",
   "Sms": "https://raw.githubusercontent.com/Terribele/VIPNET/main/NOTIFICACAO",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.net-vip.cf",
-      "CheckUser": "http://52.67.25.61:5656/checkUser",
+      "CheckUser": "http://52.67.25.61:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -29,7 +29,7 @@
     {
       "Name": "Todas as Operadoras",
       "FLAG": "vivo",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: wss\n\n",
+      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "104.16.56.6",
       "ProxyIP": "",
@@ -49,9 +49,9 @@
     {
       "Name": "Tim",
       "FLAG": "tim",
-      "Payload": "GET ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "cdnjs.cloudflare.com",
-      "TlsIP": "104.16.18.94",
+      "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "emartim.com.br",
+      "TlsIP": "emartim.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -59,7 +59,7 @@
     {
       "Name": "Claro",
       "FLAG": "claro",
-      "Payload": "GET wss://no.descomplica.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: wss\n\n",
+      "Payload": "GET ws://no.descomplica.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "no.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "",
@@ -69,11 +69,11 @@
     {
       "Name": "Oi",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
+      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "www.hbogo.com.br",
+      "TlsIP": "www.hbogo.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
       "Info": "Proxy"
     }
   ]
